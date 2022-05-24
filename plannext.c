@@ -1,4 +1,3 @@
-//Import libraries from CS50
 #include <stdio.h> // printf
 #include <cs50.h> // get_char, get_float, get_string, get_int
 #include <string.h> // strlen
