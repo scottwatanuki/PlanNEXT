@@ -1,2 +1,2 @@
 # PlanNEXT
-PlanNEXT is a command-line tool that allows students worldwide to create a personalized, optimal schedule based on various factors such as sleep chronotype, school schedule, and academic workload that will help maximize productivity while ensuring a healthy, balanced life.
+PlanNEXT is a command-line tool that allows students worldwide to create a personalized, optimal schedule based on various factors such as wake-up and sleep time, school schedule, and academic workload that will help maximize productivity while ensuring a healthy, balanced life.
