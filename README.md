@@ -9,7 +9,7 @@ PlanNEXT is a command-line tool designed to create an optimized and personalized
 - Class and Assignment Tracking: Users can input their class schedule and assignments, which are then incorporated into the generated schedule.
 - User-Friendly Interface: PlanNEXT utilizes a command-line interface, making it easy to interact with and provide input.
 
-## Acknoeledgements
+## Acknowledgements
 I would like to express gratitude to all its users for their support and feedback, which have contributed to the improvement and development of this tool.
 
 Thank you for using PlanNEXT! I hope it helps you organize your schedule effectively and achieve your goals.
